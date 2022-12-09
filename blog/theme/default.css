@@ -1,0 +1,23 @@
+<style>
+		.head-sec,.footer-sec{background:#FFBF00;}
+		.search input[type="text"]{background:#E8B65F;border:1px solid grey;}
+		.search input[type="submit"]:hover{background:#E8B65F; border:1px solid grey;}
+		 .search input[type="submit"]{background: #E8B65F;border:1px solid grey;}
+		.nav-sec{background:#DBA901;}
+		.nav-sec ul li a{border-left:1px solid #F0F061;border-right:1px solid #8D5B00;}
+		.justifypost h2 {border-bottom: 2px solid #FFBF00;color: #DBA901;}
+		.main-cont,.side-cont{background:#F5F6CE; border:1px solid #DBA901}
+		.justifypost img{border 2px solid #DBA901;}
+		.side h2 {background: #DBA901;border: 1px solid #B7801c; color:#fff;}
+		.read a {background: #FFBF00;color: #fff;border: 1px solid #B7801c;}
+		.read a:hover {color: #B7801c;background:#FFBF00;}
+		.pagination a {background: #DBA901;color: #FFBF00;}
+		.pagination a:hover {background: #FFBF00;color: #B7801c;}
+		.side ul li a {color: #DBA901;}
+		.title {color: #B7801c;}
+		.nav-sec ul li a {background: #DBA901;}
+		.nav-sec ul li a:hover{background: #fff; color:#DBA901;}
+		#active {color:#DBA901;background: white;}
+		.side ul li a {color: #FFBF00;}
+		.justify h2 {border-bottom: 2px solid #FFBF00;color: #DBA901;}
+ 	</style>

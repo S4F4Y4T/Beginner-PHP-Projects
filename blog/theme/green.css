@@ -1,0 +1,24 @@
+<!--Green Theme-->
+	<style>
+		.head-sec,.footer-sec{background:#007000;}
+		.search input[type="text"]{background:#35a535; border:1px solid #52c252;}
+		.search input[type="submit"]:hover{background:#005600; border 1px solid #52c252;}
+		 .search input[type="submit"]{border:1px solid #549854;background: #005600;border:1px solid #52c252;}
+		.nav-sec{background:#35a535;}
+		.nav-sec ul li a{border-left:1px solid #007000;border-right:1px solid #38a838;}
+		.justifypost h2 {border-bottom: 2px solid #35a535;color: #007000;}
+		.main-cont,.side-cont{background:#C9FFC9; border:1px solid #35A535}
+		.justifypost img{border 2px solid #35A535;}
+		.side h2 {background: #35a535;border: 1px solid #007000; color:#fff;}
+		.read a {background: #35a535;color: #fff;border: 1px solid #007000;}
+		.read a:hover {color: #35a535;background:#fff;}
+		.pagination a {background: #35a535; border:1px solid #007000;color: #fff;}
+		.pagination a:hover {background: #007000; border:1px solid #35a535;color: #fff;}
+		.side ul li a {color: #fff;}
+		.title {color: #007000;}
+		.nav-sec ul li a {background: #35a535;}
+		.nav-sec ul li a:hover{background: #fff; color:#007000;}
+		#active {color:#007000;background: white;}
+		.side ul li a {color: #007000;}
+		.justify h2 {border-bottom: 2px solid #35a535;color: #007000;}
+ 	</style>

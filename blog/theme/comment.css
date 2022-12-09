@@ -1,0 +1,15 @@
+<style>
+	.comment{ height:59px;widht:48px;}
+	.cleft{float:left;width:-1px;}
+	.cleft img{height:35px;width:40px;}
+	.cright{float:right;width:577px;}
+	.cright input[type="text"]{height:33px; width:322px;font-size:14px;background:gainsboro;border:1px solid grey;margin-bottom:5px;}
+	.cright input[type="submit"] {font-size: 15px;background: gainsboro;border: 1px solid grey;height:30px;width: 80px;color: grey;margin-bottom:12px;}
+	.cmmnt-head h2{color:grey;margin-bottom:10px; font-size:20px; margin-top:60px;margin-bottom:10px;}
+	.cmmnt-head hr{color:#grey; margin-bottom:10px;}
+	.comment-final img{height:30px;width:35px;}
+	.fleft{float:left;width:-1px;}
+	.fright{float:right;width:593px;}
+	.fright h3{font-size:23px; margin-top:5px;color:gray;}
+	.box {height: 20px;width: 552px;font-size: 14px;background: gainsboro;border: 1px solid whitesmoke;display: block;padding: 16px 10px;color: darkblue;font-size: 15px;margin-bottom: 20px;}
+	</style>
