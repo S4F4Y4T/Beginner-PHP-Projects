@@ -23,14 +23,13 @@
     <li>
       <a href="#projects">Projects</a>
       <ul>
-        <li><a href="#auto-typer">Auto Typer</a></li>
-        <li><a href="#fast-typer">Fast Typer</a></li>
-        <li><a href="#rock-paper-scissors">Rock Paper Scissors</a></li>
-        <li><a href="#slider">Slider</a></li>
-        <li><a href="#gallery">Gallery</a></li>
-        <li><a href="#drag-&-drop">Drag & Drop</a></li>
-        <li><a href="#drop-down">Drop Down</a></li>
-        <li><a href="#modal">Modal</a></li>
+        <li><a href="#blog">Blog</a></li>
+        <li><a href="#login-register-system">Login Register System</a></li>
+        <li><a href="#shoutbox">Shoutbox</a></li>
+        <li><a href="#image-upload">Image Upload</a></li>
+        <li><a href="#attendance-system">Attendance System</a></li>
+        <li><a href="#crud">Crud</a></li>
+        <li><a href="#pdo-crud">Pdo Crud</a></li>
       </ul>
     </li>
     <li><a href="#license">License</a></li>
