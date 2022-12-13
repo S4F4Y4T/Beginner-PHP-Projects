@@ -127,6 +127,7 @@ Live shoutbox
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### PDO Crud 
+Used MYSQL PDO on this project
 ![pdo](https://user-images.githubusercontent.com/46479689/206683061-334d5f36-032e-421c-ac45-1de4aa9a78b3.png)
 ![pdo-1](https://user-images.githubusercontent.com/46479689/206683075-34e01af7-d939-44be-9486-fdd76d9cae0c.png)  
 
